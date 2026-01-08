@@ -1,0 +1,43 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# JupyterHub temporary files (z.B. beim Upload/Download)
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Output files
+*.out
+*.log
+*.aux
+*.toc
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
