@@ -20,3 +20,6 @@ def mergeDf(gasolineDf: pd.DataFrame, gasolineEUDf: pd.DataFrame, inflation: pd.
     res["Continent"] = res["Country"].map(countryToContinent)
 
     return res
+
+def diffGasoline(data: pd.DataFrame):
+    data["GasolinePriceDiff"] = data.groupby("Country")["GasolinePrice"].pct_change() * 100

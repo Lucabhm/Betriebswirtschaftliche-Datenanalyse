@@ -1,4 +1,0 @@
-Auffälige Daten
-
-Malta: Zwischen 08.06.2020 und 10.11.2024 unveränderter Dieseln & Benzin Preis
-Österreich und Bulgarien: In der Woche des 27.11.2023 fehlen beiden Länder einmlaig Daten in der Datenbank, der EU-Komission

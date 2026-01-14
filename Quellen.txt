@@ -1,0 +1,13 @@
+Benzin Preise:
+https://datacatalog.worldbank.org/search/dataset/0066829/global-fuel-prices-database
+Stand 6.11.2024
+
+Europa Benzin Preise:
+https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en#price-developments
+Stand 13.11.2024
+
+Quelle Inflation:
+https://www.kaggle.com/datasets/sazidthe1/global-inflation-data?resource=download
+Stand 6.11.2024
+
+Die Europa Benzin Preise Datanbank wurde manuell angepasst. Dabei wurden die englischen Länder Kürzel in den Spalten wie zum Beispiel "GER_prices_with_tax_euro95" in "Germany" umgewandelt, um die Länder in den anderen Datenbank zuordnen zu können.
